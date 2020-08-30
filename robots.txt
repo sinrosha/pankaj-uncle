@@ -1,4 +1,4 @@
+Sitemap: https://www.24x7servicesaathi.com/sitemap.xml
 User-agent: *
+Disallow:
 Allow: *
-Disallow: 
-Sitemap: https://www.sonyservicentre.com/sitemap.xml
